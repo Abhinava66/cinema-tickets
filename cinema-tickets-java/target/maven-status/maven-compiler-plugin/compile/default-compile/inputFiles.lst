@@ -1,0 +1,8 @@
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/thirdparty/paymentgateway/TicketPaymentService.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/thirdparty/paymentgateway/TicketPaymentServiceImpl.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/thirdparty/seatbooking/SeatReservationService.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/thirdparty/seatbooking/SeatReservationServiceImpl.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/uk/gov/dwp/uc/pairtest/TicketService.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/uk/gov/dwp/uc/pairtest/TicketServiceImpl.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/uk/gov/dwp/uc/pairtest/domain/TicketTypeRequest.java
+/workspaces/cinema-tickets/cinema-tickets-java/src/main/java/uk/gov/dwp/uc/pairtest/exception/InvalidPurchaseException.java
